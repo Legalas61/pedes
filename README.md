@@ -9,7 +9,7 @@
 - Experienced at troubleshooting websites and fixing hacked sites
 - Proficient in Django, Svelte  and coded sites
 - Familiarity with vector graphics and designs
-- Love for community driven Frontend frameworks</p>
+- Love for community driven frameworks</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Legalas61 alt=Legalas61 /> </p>
 
